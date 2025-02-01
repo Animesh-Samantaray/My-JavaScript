@@ -1,0 +1,14 @@
+.box{
+    height:100px;
+    width:100px;
+    border-radius:30%;
+    border:3px solid black;
+}
+.container{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    gap:30px;
+    height:200px;
+    border:1px solid black
+}
